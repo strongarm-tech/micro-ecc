@@ -1,6 +1,10 @@
 micro-ecc
 ==========
 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+FORKED FROM OFFICIAL GITHUB RESPOSITORY TO KEEP CONTROL
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 A small and fast ECDH and ECDSA implementation for 8-bit, 32-bit, and 64-bit processors.
 
 The static version of micro-ecc (ie, where the curve was selected at compile-time) can be found in the "static" branch.
